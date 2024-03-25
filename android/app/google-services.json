@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35306595807",
+    "project_id": "fabled-lyceum-253505",
+    "storage_bucket": "fabled-lyceum-253505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35306595807:android:297dae9a216d684289106a",
+        "android_client_info": {
+          "package_name": "com.example.qlcvtb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkH_STcUHNaVqieoUDrtL5iiZ5WGrEV9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
